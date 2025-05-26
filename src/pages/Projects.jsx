@@ -1,7 +1,7 @@
 import React from "react";
 import Project1 from "../assets/projects/Turkey.png";
 import Project2 from "../assets/projects/LuxeShoes.png";
-import Project3 from "../assets/projects/Nextii.png";
+import Project3 from "../assets/projects/NexTii.png";
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const project = [
